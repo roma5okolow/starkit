@@ -1,5 +1,5 @@
 # number of classes
-nc: 4
+nc: 3
 
 # class names
-names: ["rhoban","goal post", "ball", "nao"]
+names: ["robot","goalpost","ball"]
