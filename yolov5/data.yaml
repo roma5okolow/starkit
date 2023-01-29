@@ -1,0 +1,5 @@
+# number of classes
+nc: 3
+
+# class names
+names: ["robot","goalpost","ball"]
